@@ -1,5 +1,8 @@
 # Custom
-data/
+data/Analysis/
+data/Trailheads/
+data/WeeklyReflection/
+*.csv
 check.py
 
 
